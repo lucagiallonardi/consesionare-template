@@ -1,0 +1,19 @@
+.map{
+    padding-top: 5rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.map-img{
+    max-width: 70vw;
+}
+
+.test{
+    background-color: #000;
+    width: 30vw;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}

@@ -1,0 +1,11 @@
+.cardCol{
+    width: 16rem;
+    text-align: center;
+}
+
+
+.item-card{
+    display: flex;
+    justify-content: center;
+}
+
